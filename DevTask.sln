@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevTask", "DevTask\DevTask.csproj", "{923FC4E9-D82B-4463-8AD4-293D005632EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevTask.Test.NUnit3", "DevTask.Test.NUnit3\DevTask.Test.NUnit3.csproj", "{DE3A3220-F955-415E-83EF-05E89D6B7996}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{923FC4E9-D82B-4463-8AD4-293D005632EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{923FC4E9-D82B-4463-8AD4-293D005632EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{923FC4E9-D82B-4463-8AD4-293D005632EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{923FC4E9-D82B-4463-8AD4-293D005632EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE3A3220-F955-415E-83EF-05E89D6B7996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE3A3220-F955-415E-83EF-05E89D6B7996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE3A3220-F955-415E-83EF-05E89D6B7996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE3A3220-F955-415E-83EF-05E89D6B7996}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
